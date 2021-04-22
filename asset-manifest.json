@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30c61ecf.chunk.css",
+    "main.js": "/static/js/main.81883128.chunk.js",
+    "main.js.map": "/static/js/main.81883128.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca1b5d2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca1b5d2f.js.map",
+    "static/css/2.1182b51a.chunk.css": "/static/css/2.1182b51a.chunk.css",
+    "static/js/2.8956279d.chunk.js": "/static/js/2.8956279d.chunk.js",
+    "static/js/2.8956279d.chunk.js.map": "/static/js/2.8956279d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1182b51a.chunk.css.map": "/static/css/2.1182b51a.chunk.css.map",
+    "static/css/main.30c61ecf.chunk.css.map": "/static/css/main.30c61ecf.chunk.css.map",
+    "static/js/2.8956279d.chunk.js.LICENSE.txt": "/static/js/2.8956279d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/KohinoorBangla-Regular.56bea520.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1b5d2f.js",
+    "static/css/2.1182b51a.chunk.css",
+    "static/js/2.8956279d.chunk.js",
+    "static/css/main.30c61ecf.chunk.css",
+    "static/js/main.81883128.chunk.js"
+  ]
+}
